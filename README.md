@@ -5,7 +5,6 @@
 
 I am a dedicated software developer with a passion for technology and continuous learning. I love to explore new tools and frameworks, and I'm always on the lookout for exciting projects to work on.
 
-- 💼 Currently working at: [Your Company]
 - 🎓 Education: Degree in Computer Science from RGPV 
 - 🌱 Learning: Advanced algorithms and cloud architecture
 - 💬 Ask me about: Full-stack development, React practices, and open-source contributions
