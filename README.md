@@ -37,13 +37,40 @@ I am a dedicated software developer with a passion for technology and continuous
 ## 🌟 Featured Projects
 
 ### [Project 1](https://github.com/PrashuVishwakarma/project1)
-A brief description of what this project does, the technologies used, and the impact it had.
+E-Signature App 🖊️
+A simple web-based e-signature application built using HTML, CSS, and JavaScript. This project allows users to draw their signatures on a canvas and save them as an image.
+
+✨ Features
+Draw a signature using a mouse or touch input
+Clear the signature canvas
+Download the signature as an image (PNG)
+Responsive design for mobile and desktop
+🚀 Technologies Used
+HTML – Structure of the web page
+CSS – Styling and layout
+JavaScript – Interactive canvas for drawing
+📌 How to Use
+Open the app in your browser
+Use your mouse or touchscreen to sign on the canvas
+Click "Clear" to reset the signature
+Click "Download" to save your signature
+
 
 ### [Project 2](https://github.com/PrashuVishwakarma/project2)
-A brief description of what this project does, the technologies used, and the impact it had.
+Gmail Clone 📧 (MERN Stack)
+A full-stack Gmail clone built using the MERN stack (MongoDB, Express, React, Node.js). This project replicates core email functionalities like sending, receiving, and managing emails.
 
-### [Project 3](https://github.com/PrashuVishwakarma/project3)
-A brief description of what this project does, the technologies used, and the impact it had.
+✨ Features
+User authentication (Login/Signup)
+Compose, send, receive, and delete emails
+Inbox, Sent, and Drafts management
+Responsive and modern UI
+🚀 Tech Stack
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT
+🔹 Work in Progress! Stay tuned for updates. 🚀
 
 ## 🔗 Connect with Me
 
