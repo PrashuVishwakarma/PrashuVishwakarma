@@ -1,4 +1,4 @@
-# Hello, I'm Prashu Vishwakarma! 👋
+# Hello, I'm Prashu Vishwakarma 👋
 
 
 ## About Me
