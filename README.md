@@ -37,44 +37,7 @@ I am a dedicated software developer with a passion for technology and continuous
 ![Prashu Vishwakarma's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashuVishwakarma&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashuVishwakarma&layout=compact&theme=tokyonight)
 
-## 🌟 Featured Projects
-
-### [Project 1](https://github.com/PrashuVishwakarma/project1)
-E-Signature App 🖊️
-A simple web-based e-signature application built using HTML, CSS, and JavaScript. This project allows users to draw their signatures on a canvas and save them as an image.
-
-✨ Features
-Draw a signature using a mouse or touch input
-Clear the signature canvas
-Download the signature as an image (PNG)
-Responsive design for mobile and desktop
-🚀 Technologies Used
-HTML – Structure of the web page
-CSS – Styling and layout
-JavaScript – Interactive canvas for drawing
-📌 How to Use
-Open the app in your browser
-Use your mouse or touchscreen to sign on the canvas
-Click "Clear" to reset the signature
-Click "Download" to save your signature
-
-
-### [Project 2](https://github.com/PrashuVishwakarma/project2)
-Gmail Clone 📧 (MERN Stack)
-A full-stack Gmail clone built using the MERN stack (MongoDB, Express, React, Node.js). This project replicates core email functionalities like sending, receiving, and managing emails.
-
-✨ Features
-User authentication (Login/Signup)
-Compose, send, receive, and delete emails
-Inbox, Sent, and Drafts management
-Responsive and modern UI
-🚀 Tech Stack
-Frontend: React, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JWT
-🔹 Work in Progress! Stay tuned for updates. 🚀
-
+ 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashu-vishwakarma-799a33193/)
