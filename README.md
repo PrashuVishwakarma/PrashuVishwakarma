@@ -7,7 +7,7 @@ I am a dedicated software developer with a passion for technology and continuous
 
 - 🎓 Education: Degree in Computer Science from RGPV 
 - 🌱 Learning: Advanced algorithms and cloud architecture
-- 💬 Ask me about: Full-stack development, React practices, and open-source contributions
+- 💬 Ask me about: Full-stack development, Java practices, and open-source contributions
 - 📧 Contact: prashuvish100@gmail.com
 
 ## 🛠 Skills
